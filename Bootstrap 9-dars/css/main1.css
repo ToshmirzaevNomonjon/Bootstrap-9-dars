@@ -1,0 +1,27 @@
+body{
+    position: relative;
+    left: 200px;
+}
+.home:hover{
+    background: lightgray;
+}
+.salom {
+    height: 40px;
+}
+.wrap11{
+    background: seashell;
+    display: inline-block;
+    margin-top: 20px;
+}
+.fader{
+    width: 700px;
+}
+.lomer{
+    width: 700px;
+}
+.zxd{
+    background-color: white !important;
+}
+.text{
+    font-family: "Bodoni MT";
+}

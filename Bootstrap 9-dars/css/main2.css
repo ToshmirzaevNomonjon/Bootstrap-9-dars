@@ -1,0 +1,14 @@
+
+.h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.learn{
+    background: linear-gradient(0deg,blue,dodgerblue);
+    color: white;
+    position: relative;
+    bottom: 30px;
+}
+.h1h{
+    font-size: 50px;
+}
